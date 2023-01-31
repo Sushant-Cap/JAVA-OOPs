@@ -3,7 +3,7 @@ package java_fundamentals;
 
 public class Nested_for_Loop {  
 public static void main(String[] args) {  
-int term=6;  
+int term=10;  
 for(int i=1;i<=term;i++){  
 for(int j=term;j>=i;j--){  
       System.out.print("* ");  
