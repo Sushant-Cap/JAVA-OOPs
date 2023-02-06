@@ -1,4 +1,4 @@
-package oops;
+ package oops;
 
 public class Fish extends Animal {
 	
@@ -11,4 +11,9 @@ public class Fish extends Animal {
 		
 
 }
+
+	public void move() {
+		System.out.println("fish is swiming..... ");
+		
+	}
 }
